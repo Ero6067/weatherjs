@@ -2,7 +2,7 @@
 
 Written by Kris Lafrance
 
-Uses HTML5, Javascript, FECTCH API, Bootswatch
+Uses HTML5, Javascript, FETCH API, Bootswatch
 
 # Features
 
