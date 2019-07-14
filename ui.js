@@ -15,7 +15,7 @@ class UI {
   
   drawResults(weather) {
   this.location.textContent = weather.name;
-  // Need to capitilize first letter
+  // TODO: Need to capitilize first letters of DESCRIPTION
   this.desc.textContent = `${weather.weather[0].description}`;
   this.string.textContent = `${Math.trunc(weather.main.temp)} °C`;
   this.icon.setAttribute('src', `http://openweathermap.org/img/wn/${weather.weather[0].icon}.png`);
