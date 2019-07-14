@@ -10,5 +10,5 @@ Uses HTML5, Javascript, FETCH API, Bootswatch
 
 # Run
 
-* `clone https://github.com/Ero6067/weatherjs.git`
+* `git clone https://github.com/Ero6067/weatherjs.git`
 * open index.html
